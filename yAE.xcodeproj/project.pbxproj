@@ -14,6 +14,7 @@
 		9959E59A24D0884E007910AF /* yAE.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9959E59824D0884E007910AF /* yAE.xcdatamodeld */; };
 		9959E59C24D08850007910AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9959E59B24D08850007910AF /* Assets.xcassets */; };
 		9959E59F24D08850007910AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9959E59D24D08850007910AF /* LaunchScreen.storyboard */; };
+		9959E5A724D0887D007910AF /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9959E5A624D0887D007910AF /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9959E59B24D08850007910AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9959E59E24D08850007910AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9959E5A024D08850007910AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9959E5A624D0887D007910AF /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				9959E58F24D0884E007910AF /* AppDelegate.swift */,
 				9959E59124D0884E007910AF /* SceneDelegate.swift */,
 				9959E59324D0884E007910AF /* ViewController.swift */,
+				9959E5A624D0887D007910AF /* secondViewController.swift */,
 				9959E59524D0884E007910AF /* Main.storyboard */,
 				9959E59B24D08850007910AF /* Assets.xcassets */,
 				9959E59D24D08850007910AF /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				9959E59424D0884E007910AF /* ViewController.swift in Sources */,
 				9959E59024D0884E007910AF /* AppDelegate.swift in Sources */,
 				9959E59224D0884E007910AF /* SceneDelegate.swift in Sources */,
+				9959E5A724D0887D007910AF /* secondViewController.swift in Sources */,
 				9959E59A24D0884E007910AF /* yAE.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
